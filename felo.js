@@ -32,7 +32,7 @@ chxm1023 = {
         "total_limit" : "UNLIMITED",
         "deduction_type" : "DURATIONS",
         "user_id" : "1777777777777777777",
-        "product_item_type" : "TRANSLATOR_BENEFIT",
+        "product_item_type" : "TRANSLATOR_PRO_ANNUAL",
         "total" : 0,
         "balance" : 0,
         "user_product_total_id" : "1732077752393142273"
