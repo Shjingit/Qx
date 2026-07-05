@@ -32,7 +32,7 @@ chxm1023 = {
         "user_id" : "1732233102102020097",
         "product_item_type" : "TRANSLATOR_BENEFIT_FREE",
         "total" : 0,
-        "balance" : 0,
+        "balance" : 1800,
         "user_product_total_id" : "1732669700107669505"
       },
     /*  {
