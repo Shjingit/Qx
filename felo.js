@@ -34,7 +34,7 @@ chxm1023 = {
         "total" : 0,
         "balance" : 1800,
         "user_product_total_id" : "1732669700107669505"
-      },
+      }
     /*  {
         "freeze" : 0,
         "total_limit" : "LIMITED",
