@@ -25,8 +25,10 @@ chxm1023 = {
   "status" : 200,
   "data" : {
     "type" : "PRO",
+    "name" : "shjin",
     "user_product_total" : [
       {
+       "name" : "shjin",
         "freeze" : 0,
         "total_limit" : "UNLIMITED",
         "deduction_type" : "DURATIONS",
