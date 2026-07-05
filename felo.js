@@ -33,8 +33,8 @@ chxm1023 = {
         "deduction_type" : "DURATIONS",
         "user_id" : "1777777777777777777",
         "product_item_type" : "TRANSLATOR_PRO_ANNUAL",
-        "total" : 0,
-        "balance" : 0,
+        "total" : 3600,
+        "balance" : 1800,
         "user_product_total_id" : "1732077752393142273"
       }
     ],
