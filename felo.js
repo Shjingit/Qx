@@ -29,7 +29,7 @@ chxm1023 = {
       {
         "freeze" : 0,
         "total_limit" : "UNLIMITED",
-        "deduction_type" : "",
+        "deduction_type" : "DURATIONS",
         "user_id" : "1732233102102020097",
         "product_item_type" : "TRANSLATOR_BENEFIT_FREE",
         "total" : 3600,
@@ -39,7 +39,7 @@ chxm1023 = {
       {
         "freeze" : 0,
         "total_limit" : "LIMITED",
-        "deduction_type" : "",
+        "deduction_type" : "DURATIONS",
         "user_id" : "1732233102102020097",
         "product_item_type" : "TRANSLATOR_DURATIONS",
         "total" : 1800,
