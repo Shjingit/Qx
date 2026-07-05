@@ -23,7 +23,7 @@ var chxm1023 = JSON.parse($response.body);
 chxm1023 = {
   "status" : 200,
   "data" : {
-    "type" : "FREE",
+    "type" : "PRO",
     "user_product_total" : [
       {
         "freeze" : 0,
