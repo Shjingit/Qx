@@ -32,8 +32,8 @@ chxm1023 = {
         "deduction_type" : "",
         "user_id" : "1732233102102020097",
         "product_item_type" : "TRANSLATOR_BENEFIT_FREE",
-        "total" : 0,
-        "balance" : 0,
+        "total" : 3600,
+        "balance" : 3600,
         "user_product_total_id" : "1732669700107669505"
       },
       {
