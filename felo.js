@@ -32,11 +32,11 @@ chxm1023 = {
         "freeze" : 0,
         "total_limit" : "UNLIMITED",
         "deduction_type" : "DURATIONS",
-        "user_id" : "a5e8d2718f63c6c517a6a4007888721d",
+        "user_id" : "a5e8d2718f63c6c517a6a4007888001d",
         "product_item_type" : "TRANSLATOR_DURATIONS",
         "total" : 3600,
         "balance" : 1800,
-        "user_product_total_id" : "2067750472774602754"
+        "user_product_total_id" : "2067750472774602564"
       }
     ],
     "now" : "2026-07-05T05:33:11+0000"
