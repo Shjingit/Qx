@@ -38,7 +38,7 @@ chxm1023 = {
        /* "user_product_total_id" : "1732077752393142273"*/
       }
     ],
-    "type" : "PRO"
+    "type" : "FREE"
   },
   "code" : "OK"
 };
