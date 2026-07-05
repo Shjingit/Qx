@@ -31,8 +31,8 @@ chxm1023 = {
         "deduction_type" : "DURATIONS",
         "user_id" : "1732233102102020097",
         "product_item_type" : "TRANSLATOR_BENEFIT",
-        "total" : 0,
-        "balance" : 0,
+        "total" : ,
+        "balance" : ,
         "user_product_total_id" : "1732669700107669505"
       }
     /*  {
