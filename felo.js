@@ -21,27 +21,35 @@ hostname = translator.felo.me
 var chxm1023 = JSON.parse($response.body);
 
 chxm1023 = {
-  
   "status" : 200,
   "data" : {
-    "type" : "PRO",
-    "name" : "shjin",
+    "type" : "FREE",
     "user_product_total" : [
       {
-       "name" : "shjin",
         "freeze" : 0,
         "total_limit" : "UNLIMITED",
         "deduction_type" : "DURATIONS",
-        "user_id" : "a5e8d2718f63c6c517a6a4007888001d",
+        "user_id" : "1732233102102020097",
+        "product_item_type" : "TRANSLATOR_BENEFIT_FREE",
+        "total" : 0,
+        "balance" : 0,
+        "user_product_total_id" : "1732669700107669505"
+      },
+    /*  {
+        "freeze" : 0,
+        "total_limit" : "LIMITED",
+        "deduction_type" : "DURATIONS",
+        "user_id" : "1732233102102020097",
         "product_item_type" : "TRANSLATOR_DURATIONS",
-        "total" : 3600,
-        "balance" : 1800,
-        "user_product_total_id" : "2067750472774602564"
-      }
+        "total" : 1800,
+        "balance" : 1761,
+        "user_product_total_id" : "1732669700493545473"
+      }*/
     ],
-    "now" : "2026-07-05T05:33:11+0000"
+    "now" : "2026-07-05T08:56:18+0000"
   },
   "code" : "OK"
-};
+}
+
 
 $done({body : JSON.stringify(chxm1023)});
